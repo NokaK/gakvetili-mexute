@@ -1,3 +1,5 @@
+/*@import url("https://cdn.web-fonts.ge/fonts/alk-rex-bold/css/alk-rex-bold.min.css");*/
+
 .image {
 	height: 124px;
 	display: inline-block;
@@ -7,6 +9,7 @@
 	display: inline-block;
 	width: 370px;
 	vertical-align: bottom;
+	font-family: 'Ruge Boogie', cursive;
 }
 .box{
 	background-color: #F2F2F2;
@@ -28,4 +31,16 @@
 	width: 4px;
 	background-color: blue;
 	margin:0 20px;
+}
+.paragrap{
+	font-size: 50px;
+	font-family: "ALK Rex Bold", sans-serif;
+}
+.paragrap1{
+	font-size: 50px;
+	font-family: 'ALKDots', sans-serif;
+}
+h4{
+	font-family: 'Pacifico-Regular';
+	font-size: 50px;
 }
